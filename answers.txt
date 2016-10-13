@@ -1,0 +1,83 @@
+Questions
+
+Why do developers use source control?
+- To easily create commands. 
+
+What are two benefits of using git as your source control system?
+- Open Source and can monitor who makes changes to code
+
+Why is it important to run the git config command?
+- This was to set up git. 
+
+What is another name for source control?
+- I do not remember. 
+
+Name one other version control system.
+- ?
+What command would you use to make a local copy of a remote repository?
+- git clone
+
+What is the main identifying factor of a commit?
+- I am not sure what you are asking
+
+What is a single point in history called in git?
+- a commit
+
+What is an irreconcilable diff called?
+- I do not know
+
+What is the command to view the latest changes in a remote repository without merging them into your local working copy?
+- I do not know
+
+What is the default name for the remote repository?
+- repo
+
+What is the command to create a new branch on a repository?
+- git branch?
+
+What is the command to switch to a branch on a repository?
+- git checkout
+
+How do you create an identical but separate repository on GitHub?
+- git fetch
+
+What is the command to combine the contents of one branch into another?
+- git merge
+
+What command is the combination of fetch and merge?
+- I don’t know
+
+What command sends commits made locally to the remote repository?
+- I don’t know
+
+What is the name of the pointer/reference that keeps track of your current git location?
+- I don’t know
+
+What is the name for where code that's under source control is located?
+- staged
+
+What is the name of the area where changes are placed prior to forming a commit?
+- unmodified
+
+What git command is commonly used to tag release versions of code?
+- I don’t know
+
+What command turns a folder into a repository tracked via source control?
+- I don’t know
+
+What command lets you see the commit history of the branch you currently have checked out?
+- git status
+
+What command lets you see the state of various files under version control?
+- I don’t know
+
+What command adds a modified file to stage?
+- git add
+
+What command collects all the staged changes and groups them into a single point of history?
+- get merge
+Label the state names for 1, 2, 3, and 4. 
+1. Untracked
+2. Unmodified
+3. Modified
+4. Staged
